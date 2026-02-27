@@ -8,7 +8,7 @@ Kiểm tra xem query có bao nhiêu cột:
 <img width="594" height="106" alt="image" src="https://github.com/user-attachments/assets/293a5bb2-f7fd-4b57-9e9a-fc2cb0f07e53" />
 <img width="582" height="107" alt="image" src="https://github.com/user-attachments/assets/35c5a5c7-132b-43b7-88ec-d1d93d213789" />
 
---> query chỉ có 2 cột theo dạng: SELECT 1,2 -> Oracle Database
+--> query chỉ có 2 cột theo dạng: SELECT a,b
 
 Để hiển thị version của database ta sẽ cần lấy dữ liệu từ cột banner của bảng v$version bằng cách dung UNION để bắt website hiển thị dữ liệu mà không thể hiển thị
 
